@@ -11,6 +11,7 @@ import ServicesOffer from "@/components/ui/landing/ServicesOffer";
 
 import { Testimonials } from "@/components/ui/landing/Testimonials";
 import TopHeader from "@/components/ui/landing/topHeader";
+import WhyChooseUs from "@/components/ui/landing/WhyChooseUs";
 
 
 export default function Home() {
@@ -25,7 +26,7 @@ export default function Home() {
       <HowItWorks />
       <ServicesOffer />
       <OurValue />
-      {/* <WhyChooseUs /> */}
+      <WhyChooseUs />
       {/* <WhatWeDo /> */}
       {/* <Expertise /> */}
       {/* <Portfolio /> */}

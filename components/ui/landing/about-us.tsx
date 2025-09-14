@@ -37,7 +37,7 @@ export function AboutUs() {
           {/* Right Column: Content */}
           <div className="flex flex-col gap-5">
             <div className="space-y-3">
-              <h2 className="text-4xl font-semibold text-brand-secondary font-raleway">
+              <h2 className="text-4xl font-semibold text-brand-secondary text-[#072D5B] font-raleway">
                 {aboutData.title}
               </h2>
               <h3 className="text-xl font-semibold text-gray-800 font-lato">
